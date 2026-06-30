@@ -1,6 +1,6 @@
 # AI Travel Route Recommendation System
 
-This is an end-to-end Deep Learning-based travel route recommendation system. It intelligently combines 5 transportation datasets (Flights, Cabs, Trains, Buses) to predict and recommend the best travel routes between cities. It supports multi-modal combinations (e.g., Cab -> Flight -> Cab) and optimizes based on user preferences like "Cheapest", "Fastest", and "Comfort optimized".
+This is an end-to-end Deep Learning-based travel route recommendation system. It intelligently combines 4 transportation datasets (Flights, Cabs, Trains, Buses) to predict and recommend the best travel routes between cities. It supports multi-modal combinations (e.g., Cab -> Flight -> Cab) and optimizes based on user preferences like "Cheapest", "Fastest", and "Comfort optimized".
 
 ## Project Structure
 
