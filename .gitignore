@@ -1,0 +1,29 @@
+# Python cache and IDE files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Ignore all CSVs by default (to avoid tracking large generated files)
+*.csv
+*.tsv
+*.xlsx
+
+# Allow tracking of specific raw datasets (essential files)
+!finalairways.csv
+!finalbangloreroadways.csv
+!finaldelhiroadways.csv
+!finalrailways.csv
+!intercitybuses.csv
+
+# ML Models, weights, and serialized objects (generated artifacts)
+*.pkl
+*.pth
+*.pt
+*.h5
+*.joblib
+artifacts/
+
